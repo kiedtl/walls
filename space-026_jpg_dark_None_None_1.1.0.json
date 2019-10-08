@@ -1,0 +1,27 @@
+{
+    "wallpaper": "C:\\Users\\elija\\Pictures\\wallpapers\\favourites\\space-026.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0B16",
+        "foreground": "#e3deca",
+        "cursor": "#e3deca"
+    },
+    "colors": {
+        "color0": "#0A0B16",
+        "color1": "#9D5F26",
+        "color2": "#91745A",
+        "color3": "#A19168",
+        "color4": "#CFA450",
+        "color5": "#427099",
+        "color6": "#A3A194",
+        "color7": "#e3deca",
+        "color8": "#9e9b8d",
+        "color9": "#9D5F26",
+        "color10": "#91745A",
+        "color11": "#A19168",
+        "color12": "#CFA450",
+        "color13": "#427099",
+        "color14": "#A3A194",
+        "color15": "#e3deca"
+    }
+}
