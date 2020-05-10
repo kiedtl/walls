@@ -24,3 +24,4 @@ Feel free to use these pictures for wallpaper use.
 - lush.jpg: Photo by Harry Cunningham on Unsplash
 - icy-water.jpg: Photo by Nils Leonhardt on Unsplash
 - jungle-house.jpg: Photo by Joshua Newton on Unsplash
+- stars.jpg: Photo by Max McKinnon on Unsplash
