@@ -26,3 +26,4 @@ Feel free to use these pictures for wallpaper use.
 - jungle-house.jpg: Photo by Joshua Newton on Unsplash
 - stars.jpg: Photo by Max McKinnon on Unsplash
 - sky-mountain.jpg: Photo by Paul E. Harrer on Unsplash
+- nordic.png: /u/Plasm0duck
