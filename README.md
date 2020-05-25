@@ -27,3 +27,4 @@ Feel free to use these pictures for wallpaper use.
 - stars.jpg: Photo by Max McKinnon on Unsplash
 - sky-mountain.jpg: Photo by Paul E. Harrer on Unsplash
 - nordic.png: /u/Plasm0duck
+- skyscraper.jpg: Nick Wessaert on Unsplash
