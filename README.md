@@ -29,6 +29,7 @@ Feel free to use these pictures for wallpaper use.
 - nordic.png: /u/Plasm0duck
 - skyscraper.jpg: Nick Wessaert on Unsplash
 - saudi-mountains.jpg: Photo by [M K](https://unsplash.com/@mk189?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- planets.png: /u/Legyf on [r/pixelart](https://old.reddit.com/r/PixelArt/comments/rbgaif/planets/)
 
 Removed, might be added later:
 - citadel.png: /u/ChocolatyBrown on [r/pixelart](https://old.reddit.com/r/PixelArt/comments/pvyhg8/the_citadel/)
